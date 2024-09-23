@@ -23,6 +23,9 @@ body {
 }
 
 /* PRODUCT INFORMATION */
+.product-info {
+  width: 243px;
+}
 .price {
   font-size: 24px;
   float: left;
@@ -94,6 +97,9 @@ body {
   background-color: #a52a2a;
 }
 /* PRODUCT DETAILS */
+.product-title {
+  width: 243px;
+}
 .details-title {
   text-transform: uppercase;
   font-size: 16px;
