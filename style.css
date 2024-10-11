@@ -88,12 +88,15 @@ body {
   text-decoration: none;
 }
 
+.product-colors {
+  display: flex;
+  margin-bottom: 15px;
+  gap: 10px;
+}
 .color {
   background-color: #000;
   height: 22px;
   width: 22px;
-  display: inline-block;
-  margin-right: 10px;
 }
 
 .color-blue {
