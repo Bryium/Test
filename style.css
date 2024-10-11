@@ -15,9 +15,10 @@ body {
 }
 .container {
   background-color: white;
+  display: flex;
 }
 .product-img {
-  float: left;
+  /* float: left; */
   margin-right: 40px;
 }
 /* PRODUCT */
@@ -36,8 +37,8 @@ body {
 
 /* PRODUCT INFORMATION */
 .product-info {
-  width: 243px;
-  float: left;
+  /* width: 243px; */
+  /* float: left; */
   margin-right: 40px;
   margin-top: 20px;
 }
@@ -120,8 +121,8 @@ body {
 }
 /* PRODUCT DETAILS */
 .product-details {
-  width: 243px;
-  float: left;
+  /* width: 243px;
+  float: left; */
   margin-top: 20px;
 }
 .details-title {
