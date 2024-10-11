@@ -16,10 +16,10 @@ body {
 .container {
   background-color: white;
   display: flex;
+  gap: 40px;
 }
 .product-img {
   /* float: left; */
-  margin-right: 40px;
 }
 /* PRODUCT */
 .Product {
@@ -39,7 +39,8 @@ body {
 .product-info {
   /* width: 243px; */
   /* float: left; */
-  margin-right: 40px;
+  flex: 1;
+
   margin-top: 20px;
 }
 
@@ -123,6 +124,7 @@ body {
 .product-details {
   /* width: 243px;
   float: left; */
+  flex: 1;
   margin-top: 20px;
 }
 .details-title {
