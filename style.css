@@ -15,7 +15,7 @@ body {
 }
 .container {
   background-color: white;
-  display: flex;
+  display: grid;
   gap: 40px;
 }
 .product-img {
